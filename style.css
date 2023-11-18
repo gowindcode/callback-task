@@ -1,0 +1,67 @@
+*{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #343333;
+}
+    
+#mainDiv {
+
+    gap: 2 rem;
+    background-color: #343333;
+    height: 80vh;
+    width: 95vw;
+    padding-bottom: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+    /* color: yellow; */
+/* 
+    justify-content: last baseline;
+    align-items: end; */
+    color: white;  
+    /* border: 1px solid greenyellow; */
+}
+/* 
+#happyInd {
+    
+    text-shadow: 0 2px 2px blue;
+    color: white;
+    background-image: linear-gradient( rgb(186, 39, 6), white, rgb(3, 96, 3));
+    border: 1px solid red;
+    font-size: 60px;
+} */
+
+#countText {
+
+    font-family: sans-serif;
+    /* text-shadow: #FC0 1px 0 10px; */
+    /* color: blue; */
+    text-align: center;
+    border: 1px solid blue;
+}
+
+img {
+
+    width: 90vw ;
+    height: 70vh;
+    /* border: 1px solid skyblue; */
+}
+
+
+button {
+
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color: rgb(3, 42, 96);
+        text-shadow: 1px 1px 1px #ffffff;
+        border-radius: 10px;
+        background-color: white;
+        background-image: linear-gradient(to right, red, white, green);
+        gap: 20px;
+}
